@@ -56,6 +56,7 @@ Seja bem-vindo ao meu repositório de estudos da Formação Full-Stack! 🚀 Aqu
 - [ ] Módulo 8: API REST com Node.js      
 - [ ] Módulo 9: Node.js com Containers 
 - [ ] Módulo 10: React 
+- **Previsão de Conclusão:** Dezembro de 2024
 
 
 ## 🧑🏻‍💻 Autor
