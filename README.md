@@ -7,8 +7,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-modulos">Módulos </a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-endpoints">Endpoints</a> • 
+ <a href="#-progresso">Progresso</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -38,3 +37,31 @@ Seja bem-vindo ao meu repositório de estudos da Formação Full-Stack! 🚀 Aqu
 <p align="justify">Esta formação utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
 
 * HTML
+* CSS
+* JavaScript
+* TypeScript
+* Git
+* GitHub
+* E mais..
+
+## 📈 Progresso
+
+[ ] Fundamentos da Programação Web
+[ ] Versionamento de código
+[ ] Iniciando o HTML e CSS
+[ ] Avançando no HTML e CSS
+[ ] JavaScript
+[ ] TypeScript
+[ ] Fundamentos do Node.js
+[ ] API REST com Node.js
+[ ] Node.js com Containers
+[ ] React
+
+
+## 🧑🏻‍💻 Autor
+
+Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny/)
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
