@@ -46,19 +46,16 @@ Seja bem-vindo ao meu repositório de estudos da Formação Full-Stack! 🚀 Aqu
 
 ## 📈 Progresso
 
-[ ] Fundamentos da Programação Web 
-
-[ ] Versionamento de código
-
-[ ] Iniciando o HTML e CSS
-
-[ ] Avançando no HTML e CSS
-[ ] JavaScript
-[ ] TypeScript
-[ ] Fundamentos do Node.js
-[ ] API REST com Node.js
-[ ] Node.js com Containers
-[ ] React
+[ ] Fundamentos da Programação Web   
+[ ] Versionamento de código  
+[ ] Iniciando o HTML e CSS   
+[ ] Avançando no HTML e CSS   
+[ ] JavaScript            
+[ ] TypeScript            
+[ ] Fundamentos do Node.js       
+[ ] API REST com Node.js      
+[ ] Node.js com Containers 
+[ ] React 
 
 
 ## 🧑🏻‍💻 Autor
