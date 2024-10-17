@@ -46,16 +46,16 @@ Seja bem-vindo ao meu repositório de estudos da Formação Full-Stack! 🚀 Aqu
 
 ## 📈 Progresso
 
-[ ] Fundamentos da Programação Web   
-[ ] Versionamento de código  
-[ ] Iniciando o HTML e CSS   
-[ ] Avançando no HTML e CSS   
-[ ] JavaScript            
-[ ] TypeScript            
-[ ] Fundamentos do Node.js       
-[ ] API REST com Node.js      
-[ ] Node.js com Containers 
-[ ] React 
+- [x] Módulo 1: Fundamentos da Programação Web   
+- [ ] Módulo 2: Versionamento de código  
+- [ ] Módulo 3: Iniciando o HTML e CSS   
+- [ ] Módulo 4: Avançando no HTML e CSS   
+- [ ] Módulo 5: JavaScript            
+- [ ] Módulo 6: TypeScript            
+- [ ] Módulo 7: Fundamentos do Node.js       
+- [ ] Módulo 8: API REST com Node.js      
+- [ ] Módulo 9: Node.js com Containers 
+- [ ] Módulo 10: React 
 
 
 ## 🧑🏻‍💻 Autor
